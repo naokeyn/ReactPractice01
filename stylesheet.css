@@ -1,0 +1,30 @@
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+a {
+    color: #00bfff;
+}
+
+#test_react {
+    text-align: center;
+}
+
+p {
+    font-size: large;
+}
+
+button {
+    margin: 10px;
+    border-radius: 25%;
+    color: whitesmoke;
+    background-color: skyblue;
+    border-color: skyblue;
+}
+
+button:hover {
+    background-color: whitesmoke;
+    border-color: whitesmoke;
+    color: skyblue;
+}
